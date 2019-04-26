@@ -26,7 +26,7 @@
     {
       "date": "2016-03-27",
       "name": "Mole Slayer",
-      "img": "whatsapp.png",
+      "img": "mole.png",
       "country": "FR",
       "view": "VIEW PRICING",
       "id": "NVSNlbd3"
@@ -41,31 +41,31 @@
     },
     {
       "date": "2016-04-25",
-      "name": "Mole Slayer one",
-      "img": "whatsapp.png",
+      "name": "Mole Slayer 1",
+      "img": "mole.png",
       "country": "uk",
       "view": "VIEW PRICING",
       "id": "NVSNlbd5"
     },
     {
       "date": "2018-07-18",
-      "name": "Mole Slayer two",
-      "img": "whatsapp.png",
+      "name": "Mole Slayer 2",
+      "img": "mole.png",
       "country": "in",
       "view": "VIEW PRICING",
       "id": "NVSNlbd6"
     },
     {
       "date": "2019-01-05",
-      "name": "Mole Slayer three",
-      "img": "whatsapp.png",
+      "name": "Mole Slayer 3",
+      "img": "mole.png",
       "country": "eur",
       "view": "VIEW PRICING",
       "id": "NVSNlbd7"
     },
     {
       "date": "2019-02-09",
-      "name": "Super Jewels Quest one",
+      "name": "Super Jewels Quest 1",
       "img": "jewel.png",
       "country": "us",
       "view": "VIEW PRICING",
@@ -73,7 +73,7 @@
     },
     {
       "date": "2019-02-09",
-      "name": "Super Jewels Quest two",
+      "name": "Super Jewels Quest 2",
       "img": "jewel.png",
       "country": "uk",
       "view": "VIEW PRICING",
@@ -81,7 +81,7 @@
     },
     {
       "date": "2019-03-10",
-      "name": "Super Jewels Quest three",
+      "name": "Super Jewels Quest 3",
       "img": "jewel.png",
       "country": "eur",
       "view": "VIEW PRICING",
@@ -89,7 +89,7 @@
     },
     {
       "date": "2019-03-10",
-      "name": "Mancala Mix one",
+      "name": "Mancala Mix 1",
       "img": "whatsapp.png",
       "country": "in",
       "view": "VIEW PRICING",
@@ -97,7 +97,7 @@
     },
     {
       "date": "2019-04-10",
-      "name": "Mancala Mix two",
+      "name": "Mancala Mix 2",
       "img": "whatsapp.png",
       "country": "us",
       "view": "VIEW PRICING",
@@ -105,7 +105,7 @@
     },
     {
       "date": "2019-04-11",
-      "name": "Mancala Mix three",
+      "name": "Mancala Mix 3",
       "img": "whatsapp.png",
       "country": "uk",
       "view": "VIEW PRICING",
@@ -113,7 +113,7 @@
     },
     {
       "date": "2019-04-11",
-      "name": "Mancala Mix four",
+      "name": "Mancala Mix 4",
       "img": "whatsapp.png",
       "country": "in",
       "view": "VIEW PRICING",
@@ -121,7 +121,7 @@
     },
     {
       "date": "2019-04-11",
-      "name": "Mancala Mix five",
+      "name": "Mancala Mix 5",
       "img": "whatsapp.png",
       "country": "us",
       "view": "VIEW PRICING",
@@ -129,7 +129,7 @@
     },
     {
       "date": "2019-04-18",
-      "name": "左全聴覧交光救討続働用上 one",
+      "name": "左全聴覧交光救討続働用上 1",
       "img": "chinese.png",
       "country": "us",
       "view": "VIEW PRICING",
@@ -137,7 +137,7 @@
     },
     {
       "date": "2019-04-22",
-      "name": "左全聴覧交光救討続働用上 two",
+      "name": "左全聴覧交光救討続働用上 2",
       "img": "chinese.png",
       "country": "uk",
       "view": "VIEW PRICING",
@@ -145,7 +145,7 @@
     },
     {
       "date": "2019-4-26",
-      "name": "左全聴覧交光救討続働用上 three",
+      "name": "左全聴覧交光救討続働用上 3",
       "img": "chinese.png",
       "country": "eur",
       "view": "VIEW PRICING",
