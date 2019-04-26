@@ -18,7 +18,7 @@
     {
       "date": "2016-02-05",
       "name": "Super Jewels Quest",
-      "img": "download.jpeg",
+      "img": "jewel.png",
       "country": "CA,FR",
       "view": "VIEW PRICING",
       "id": "NVSNlbd2"
@@ -66,7 +66,7 @@
     {
       "date": "2019-02-09",
       "name": "Super Jewels Quest one",
-      "img": "download.jpg",
+      "img": "jewel.png",
       "country": "us",
       "view": "VIEW PRICING",
       "id": "NVSNlbd8"
@@ -74,7 +74,7 @@
     {
       "date": "2019-02-09",
       "name": "Super Jewels Quest two",
-      "img": "download.jpg",
+      "img": "jewel.png",
       "country": "uk",
       "view": "VIEW PRICING",
       "id": "NVSNlbd9"
@@ -82,7 +82,7 @@
     {
       "date": "2019-03-10",
       "name": "Super Jewels Quest three",
-      "img": "download.jpg",
+      "img": "jewel.png",
       "country": "eur",
       "view": "VIEW PRICING",
       "id": "NVSNlbd10"
